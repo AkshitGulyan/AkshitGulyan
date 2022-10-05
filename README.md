@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @AkshitGulyan
-- 👀 I’m interested in Web Development and Technical Knowledge
+- 👋 Hi, I’m ***@AkshitGulyan***
+- 👀 I’m interested in and Technical Knowledge
 - 🌱 I’m currently learning Python
 - 📫 You can contact me on akshitgulyan@gmail.com
 
