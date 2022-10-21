@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akshit Gulyan</h1>
-<h3 align="center">A passionate Student from India</h3>
+<h3 align="center">An enthusiastic Student from India</h3>
 
 - 🌱 I’m currently learning **Python, Database**
 
