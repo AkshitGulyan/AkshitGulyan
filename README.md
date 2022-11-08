@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Akshit Gulyan</h1>
 <h3 align="center">An enthusiastic Student from India</h3>
 
-- 🌱 I’m currently learning **Python, Database**
+- 🌱 I’m currently learning **Python, Database and Web Development**
 
 - 👯 I’m looking to collaborate on **projects of Python**
 
@@ -17,7 +17,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akshitgulyan&show_icons=true&locale=en&layout=compact" alt="akshitgulyan" /></p>
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akshitgulyan&show_icons=true&locale=en" alt="akshitgulyan" /></p>
 
