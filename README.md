@@ -1,4 +1,4 @@
-<p  align="center">
+<p align="center">
  ![gitGIF](https://github.com/AkshitGulyan/AkshitGulyan/blob/main/tumblr_90745e74ce8cd00b89f7d03370c67f40_e7afbc1a_500.gif)
   </p>
 <h1 align="center">Namaste 🙏, I'm Akshit Gulyan</h1>
