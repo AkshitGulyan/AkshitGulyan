@@ -22,3 +22,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akshitgulyan&show_icons=true&locale=en" alt="akshitgulyan" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akshitgulyan&" alt="akshitgulyan" /></p>
+
+
+[![AkshitGulyan's GitHub | Languages Over Time](https://stats.quine.sh/AkshitGulyan/languages-over-time?theme=light)](https://quine.sh)
