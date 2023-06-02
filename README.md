@@ -1,4 +1,4 @@
-![gitGif](https://user-images.githubusercontent.com/102857782/230227927-1353a263-635c-4437-9b19-30901b3ae87b.gif)
+<iframe src="https://giphy.com/embed/BUbMgQBShZOcMPohgn" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/trippy-abstract-pi-slices-BUbMgQBShZOcMPohgn">via GIPHY</a></p>
 <h1 align="center">Namaste 🙏, I'm Akshit Gulyan</h1>
 <h3 align="center">An enthusiastic Student from India</h3>
 
