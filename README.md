@@ -17,7 +17,14 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p> <p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src='https://github.com/AkshitGulyan/AkshitGulyan/blob/main/django-logo-negative.png' alt="python" width="40" height="40"/> </a> </p>
 
+<h2 align="center">Github Statistics </h2>
 
+|💻Most Used Languages and Stats 📈|🎯 Github Streaks and Trophies 🏆|
+|-----------------------------------|----------------------------------|
+|[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AkshitGulyan&show_icons=true&theme=midnight-purple&layout=compact&hide_title=true)](https://github.com/utkarsh575)|[![AkshitGulyan's GitHub Streaks](https://github-readme-streak-stats.herokuapp.com/?user=AkshitGulyan&theme=midnight-purple&hide_border=true)](https://github.com/AkshitGulyan)
+|[![AkshitGulyan's GitHub stats](https://github-readme-stats.vercel.app/api?username=AkshitGulyan&show_icons=true&theme=ayu-mirage&hide_title=true)](https://github.com/AkshitGulyan)|<h1 >Visits: </h1> ![Visitor Count](https://profile-counter.glitch.me/AkshitGulyan/count.svg)
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=AkshitGulyan&label=Profile%20views&color=0e75b6&style=flat" alt="AkshitGulyan" /> </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akshitgulyan&show_icons=true&locale=en" alt="akshitgulyan" /></p>
 
