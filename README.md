@@ -1,9 +1,4 @@
-<img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" alt="Devesh" width="30px">
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=poppins&size=23&duration=4000&color=F714ED&lines=A+Passionate+FullStack+Developer;A+Passionate+Designer;Small+Time+Game+Creator.)](https://git.io/typing-svg)
-</h1>
-  
-![Snake animation](https://github.com/deveshjoshi101/deveshjoshi101/blob/output/github-contribution-grid-snake.svg)
+![gitGif](https://user-images.githubusercontent.com/102857782/230227927-1353a263-635c-4437-9b19-30901b3ae87b.gif)
 <h1 align="center">Namaste 🙏, I'm Akshit Gulyan</h1>
 <h3 align="center">An enthusiastic Student from India</h3>
 
