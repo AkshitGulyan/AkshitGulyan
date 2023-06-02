@@ -21,7 +21,7 @@
 
 |💻Most Used Languages and Stats 📈|🎯 Github Streaks and Trophies 🏆|
 |-----------------------------------|----------------------------------|
-|[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AkshitGulyan&show_icons=true&theme=midnight-purple&layout=compact&hide_title=true)](https://github.com/utkarsh575)|[![AkshitGulyan's GitHub Streaks](https://github-readme-streak-stats.herokuapp.com/?user=AkshitGulyan&theme=midnight-purple&hide_border=true)](https://github.com/AkshitGulyan)
+|[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AkshitGulyan&show_icons=true&theme=midnight-purple&layout=compact&hide_title=true)](https://github.com/AkshitGulyan)|[![AkshitGulyan's GitHub Streaks](https://github-readme-streak-stats.herokuapp.com/?user=AkshitGulyan&theme=midnight-purple&hide_border=true)](https://github.com/AkshitGulyan)
 |[![AkshitGulyan's GitHub stats](https://github-readme-stats.vercel.app/api?username=AkshitGulyan&show_icons=true&theme=ayu-mirage&hide_title=true)](https://github.com/AkshitGulyan)|<h1 >Visits: </h1> ![Visitor Count](https://profile-counter.glitch.me/AkshitGulyan/count.svg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AkshitGulyan&label=Profile%20views&color=0e75b6&style=flat" alt="AkshitGulyan" /> </p>
