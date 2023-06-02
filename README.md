@@ -1,4 +1,4 @@
-<iframe src="https://giphy.com/embed/BUbMgQBShZOcMPohgn" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/trippy-abstract-pi-slices-BUbMgQBShZOcMPohgn">via GIPHY</a></p>
+![gitGIF](https://64.media.tumblr.com/90745e74ce8cd00b89f7d03370c67f40/9e262ae8cfde02ea-c0/s500x750/e7afbc1acce301cc47f85ebe5a8dc84ed6d9d633.gif)
 <h1 align="center">Namaste 🙏, I'm Akshit Gulyan</h1>
 <h3 align="center">An enthusiastic Student from India</h3>
 
