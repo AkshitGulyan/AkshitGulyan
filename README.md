@@ -4,7 +4,7 @@
 <h1 align="center">Namaste 🙏, I'm Akshit Gulyan</h1>
 <h3 align="center">An enthusiastic Student from India</h3>
 
-- 🌱 I’m currently learning **Machine Learning and Backend Development**
+- 🌱 I’m currently improving my **Tech Stack**
 
 - 👯 I’m looking to collaborate on **projects of Python**
 
